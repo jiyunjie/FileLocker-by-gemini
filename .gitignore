@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+
+# 忽略打包生成的临时文件夹和成品
+build/
+dist/
+*.spec
+
+.vscode/
